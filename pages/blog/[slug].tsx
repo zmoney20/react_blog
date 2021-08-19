@@ -8,7 +8,7 @@ export default function PostPage({
   frontmatter: { title, date, cover_image },
   slug,
   content,
-}) {
+}: any) {
   return (
     <>
       <Link href="/">
@@ -41,7 +41,7 @@ export async function getStaticPaths() {
   };
 }
 
-export async function getStaticProps({ params: { slug } }) {
+export async function getStaticProps({ params: { slug } }: any) {
   const markdownWithMeta = fs.readFileSync(
     path.join("posts", slug + ".md"),
     "utf-8"

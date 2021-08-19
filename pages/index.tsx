@@ -5,7 +5,7 @@ import Head from "next/head";
 import Post from "../components/Post";
 import { sortByDate } from "../utils";
 
-export default function Home({ posts }) {
+export default function Home({ posts }: any) {
   return (
     <div>
       <Head>
@@ -13,7 +13,7 @@ export default function Home({ posts }) {
       </Head>
 
       <div className="posts">
-        {posts.map((post, index) => (
+        {posts.map((post: any, index: any) => (
           <Post key={index} post={post} />
         ))}
       </div>
