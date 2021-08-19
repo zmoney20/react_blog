@@ -32,8 +32,7 @@ to correct your car to go down the path you want it to go.
 
 An example:
 ![tornado spin](/images/posts/tornado-spin.gif)
-_from https://www.reddit.com/r/RocketLeague
-/comments/acwq6z/finally_a_clean_tornado_spin/_
+_from [r/RocketLeague](https://www.reddit.com/r/RocketLeague/comments/acwq6z/finally_a_clean_tornado_spin/)_
 
 This can get complicated because while your car is upside down, the inputs are
 reversed. With enough practice, this becomes muscle memory and you are able to

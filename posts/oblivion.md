@@ -22,9 +22,7 @@ of character I could think of:
 
 ![shield charge skyrim](/images/posts/shield-charge.webp)
 
-_from https://www.reddit.com
-/r/skyrim/comments/9kq735
-/til_that_if_you_hold_block_and_sprint_at_the_same/_
+_from [r/Skyrim](https://www.reddit.com/r/skyrim/comments/9kq735/til_that_if_you_hold_block_and_sprint_at_the_same/)_
 
 I could go on and list all of the different character builds I've tried, but
 that would be a waste of time. Needless to say there are countless ways to play
@@ -37,8 +35,7 @@ breath of fresh air. A true masterpiece.
 
 ![ugly argonian](/images/posts/ugly-argonian.webp)
 
-_from https://www.reddit.com
-/r/oblivion/comments/lj4nyl/the_tragedy_of_darth_lizard_the_wizard/_
+_from [r/Oblivion](https://www.reddit.com/r/oblivion/comments/lj4nyl/the_tragedy_of_darth_lizard_the_wizard/)_
 
 A couple friends of mine grew up playing Oblivion, the Elder Scrolls game
 before Skyrim. They suggested that I try it out. Everyone that I've ever talked
